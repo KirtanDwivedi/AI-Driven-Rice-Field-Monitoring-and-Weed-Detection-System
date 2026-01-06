@@ -1,5 +1,7 @@
 # 🌾 Rice Field Weed Detection using Multispectral Imagery
 
+![Banner](banner.png)
+
 ## 📁 Project Structure
 
 ```bash
